@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reddit Reader</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+</resources>
